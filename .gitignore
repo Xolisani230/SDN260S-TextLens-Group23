@@ -1,0 +1,11 @@
+out/
+bin/
+logs/
+reports/
+saved/
+data/bench/
+*.class
+.vscode/
+.classpath
+.project
+.settings/

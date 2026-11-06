@@ -1,0 +1,33 @@
+2026-10-17 13:02:36 [INFO] TextLens started
+2026-10-17 13:03:00 [ERROR] Could not load file: 1 (IOException: File not found: 1)
+2026-10-17 13:03:54 [INFO] Loaded file: data/samples/sample1.txt
+2026-10-17 13:04:25 [INFO] Loaded file: data/samples/empty.txt
+2026-10-17 13:04:54 [ERROR] Could not load file: nope.txt (IOException: File not found: nope.txt)
+2026-10-17 13:05:21 [ERROR] Could not load file: data/samples (IOException: That is a folder, not a file: data/samples)
+2026-10-17 13:36:54 [INFO] Loaded file: data/samples/sample1.txt
+2026-10-17 13:38:20 [INFO] TextLens started
+2026-10-17 13:38:50 [INFO] Loaded file: data/samples/sample1.txt
+2026-10-17 13:38:50 [INFO] Analyzed 24 words
+2026-10-17 13:42:06 [INFO] Loaded file: data/samples/repeat.txt
+2026-10-17 13:42:06 [INFO] Analyzed 12 words
+2026-10-17 14:05:32 [INFO] TextLens started
+2026-10-17 14:05:32 [INFO] Dictionary loaded: 9894 words
+2026-10-17 14:05:32 [INFO] Sentiment lists loaded
+2026-10-17 14:06:19 [INFO] Loaded file: data/samples/sample1.txt
+2026-10-17 14:06:20 [INFO] Analyzed 24 words
+2026-10-17 14:07:35 [ERROR] Could not load file:  (IOException: No file path was given.)
+2026-10-17 14:08:11 [ERROR] Could not load file: data/samples/error.txt (IOException: File not found: data/samples/error.txt)
+2026-10-17 14:08:39 [INFO] Loaded file: data/samples/errors.txt
+2026-10-17 14:08:39 [INFO] Analyzed 35 words
+2026-10-17 14:16:00 [INFO] TextLens closed
+2026-10-17 14:18:38 [INFO] TextLens started
+2026-10-17 14:18:39 [INFO] Dictionary loaded: 9894 words
+2026-10-17 14:18:39 [INFO] Sentiment lists loaded
+2026-10-17 14:19:21 [ERROR] Could not load file: data/samples/sample.txt (IOException: File not found: data/samples/sample.txt)
+2026-10-17 14:20:07 [INFO] Loaded file: data/samples/errors.txt
+2026-10-17 14:20:08 [INFO] Analyzed 35 words
+2026-10-17 14:25:02 [ERROR] Could not load file: data/samples/nope.txt (IOException: File not found: data/samples/nope.txt)
+2026-10-17 14:28:42 [INFO] TextLens closed
+2026-10-17 13:03:00 [ERROR] Could not load file: 1 (IOException: File not found: 1)
+2026-10-17 13:04:54 [ERROR] Could not load file: nope.txt (IOException: File not found: nope.txt)
+2026-10-17 13:05:21 [ERROR] Could not load file: data/samples (IOException: That is a folder, not a file: data/samples)
