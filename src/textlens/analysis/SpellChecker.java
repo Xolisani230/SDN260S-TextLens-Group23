@@ -82,6 +82,9 @@ public class SpellChecker implements Analyzer<List<String>> {
      * @return the best match, or an empty string if nothing is close enough
      */
     public String suggest(String word) {
+        if (word == null || word.isBlank()) {
+            return "";
+        }
         String target = word.toLowerCase();
         String best = "";
         int bestDistance = MAX_DISTANCE;
